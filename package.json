@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "apollo-server-express": "^2.15.0",
+    "graphql": "^15.8.0",
+    "react": "^18.2.0"
+  }
+}
