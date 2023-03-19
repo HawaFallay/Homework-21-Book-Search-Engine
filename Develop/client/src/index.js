@@ -10,3 +10,6 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
+import typeDefs from '../../server/schemas/typeDefs';
+import resolvers from '../../server/schemas/resolvers';
